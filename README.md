@@ -1,1 +1,1 @@
-# Alzheimer-sDiseaseClassifier
+# AlzheimerDiseaseClassifier
